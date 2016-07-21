@@ -1,0 +1,12 @@
+[smtp]
+host="smtp.163.com"
+port=25
+username=""
+password=""
+no-verify=false
+from=""
+to=["",""]
+
+[crawler]
+url=""
+interval=10
